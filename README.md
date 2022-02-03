@@ -1,2 +1,0 @@
-# developer
-for practise purpose
